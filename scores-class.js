@@ -9,3 +9,5 @@ new Score("Subway Surfers", "jonny p", "40674", "/assets/img/icons/subway.webp",
 new Score("", "Dylan", "68", "/assets/img/squiddy.gif", "/g4m3s/club-penguin.html").add_new_score();
 
 new Score("Club Penguin", "Maddox", "1337", "/assets/img/club-penguin-dance.gif", "/g4m3s/club-penguin.html").add_new_score();
+
+new Score("Jetpack Joyride", "Solarrelic", "7050", "/assets/img/icons/jetpackjoyride.webp", "/g4m3s/jetpack-joyride.html").add_new_score();
