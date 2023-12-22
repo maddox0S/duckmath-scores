@@ -2,9 +2,9 @@ new Score("Drift Boss", "nevamian", "20230", "/assets/img/icons/driftboss.webp",
 
 new Score("Slope", "roshie", "230", "/assets/img/icons/slope.webp", "/g4m3s/slope.html").add_new_score();
 
-new Score("Tanuki Sunset", "Solarrelic", "703", "/assets/img/icons/tanuki.webp", "/g4m3s/TanukiSunset.html").add_new_score();
+new Score("Tanuki Sunset", "roshie", "807867", "/assets/img/icons/tanuki.webp", "/g4m3s/TanukiSunset.html").add_new_score();
 
-new Score("Subway Surfers", "jonny p", "40674", "/assets/img/icons/subway.webp", "/g4m3s/subway_surfers.html").add_new_score();
+new Score("Subway Surfers", "BrYLEe LYnN  BLaCkWooDdDddDD", "144749", "/assets/img/icons/subway.webp", "/g4m3s/subway_surfers.html").add_new_score();
 
 new Score("", "Dylan", "68", "/assets/img/squiddy.gif", "/g4m3s/club-penguin.html").add_new_score();
 
